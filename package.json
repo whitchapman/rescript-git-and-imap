@@ -1,0 +1,19 @@
+{
+  "name": "rescript-template",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "build": "rescript",
+    "build:deps": "rescript build -with-deps",
+    "build:watch": "rescript build -w",
+    "clean": "rescript clean -with-deps"
+  },
+  "keywords": [
+    "rescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "rescript": "*"
+  }
+}
