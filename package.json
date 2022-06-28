@@ -1,5 +1,5 @@
 {
-  "name": "rescript-template",
+  "name": "rescript-git-and-imap",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -14,6 +14,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "rescript": "*"
+    "dotenv": "^16.0.1",
+    "imap": "^0.8.19",
+    "rescript": "*",
+    "simple-git": "^3.10.0"
   }
 }
