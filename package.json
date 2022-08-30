@@ -14,9 +14,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@ryyppy/rescript-promise": "^2.1.0",
     "dotenv": "^16.0.1",
     "imap": "^0.8.19",
     "rescript": "*",
-    "simple-git": "^3.10.0"
+    "simple-git": "^3.13.0"
   }
 }
