@@ -15,7 +15,6 @@ function commitFiles(inputPath, outputGitRepo, outputFolder) {
   console.log(git);
   var u = git.init(false);
   console.log(u);
-  
 }
 
 function main(param) {
@@ -35,6 +34,5 @@ main(undefined);
 export {
   commitFiles ,
   main ,
-  
 }
 /*  Not a pure module */

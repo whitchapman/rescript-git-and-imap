@@ -12,6 +12,5 @@ function get(key) {
 export {
   config ,
   get ,
-  
 }
 /* config Not a pure module */

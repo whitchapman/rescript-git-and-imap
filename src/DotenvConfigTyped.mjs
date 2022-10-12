@@ -13,6 +13,5 @@ function parse(param) {
 
 export {
   parse ,
-  
 }
 /* dotenv Not a pure module */
